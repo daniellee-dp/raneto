@@ -10,7 +10,7 @@
   "author": "Ryan Lelek <ryanlelek@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@raneto/theme-default": "0.0.1",
+    "@raneto/theme-default": "0.1.0",
     "raneto": "0.17.2",
     "debug": "4.3.4"
   }
