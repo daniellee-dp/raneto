@@ -31,5 +31,3 @@ themes/default/public/lib/
 .DS_Store
 
 .idea
-
-package-lock.json
